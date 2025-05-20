@@ -4,4 +4,6 @@ I like machine learning and software. My best project is this [application](http
 
 Research-wise, I'm a co-first author on [this](https://arxiv.org/pdf/2412.15947) paper and an author on [this](https://openreview.net/pdf?id=sfTXIiu7Op) paper. My primary interest is audio and images, but I'm open to most domain areas with interesting problems. I'm currently working on an algorithm to predict [optimal piano fingerings](https://github.com/tirangol/Projects/tree/main/pianofortis) for a given piece, a deep learning flute synthesizer, and a GUI app for visualizing and playing midi files.
 
+I have some notes from my time at UofT [here](https://github.com/tirangol/Uoft-Notes), which I will eventually complete.
+
 I also occassionally arrange and compose stuff on [Musescore](https://musescore.com/trngl).
