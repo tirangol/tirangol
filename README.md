@@ -1,4 +1,4 @@
-## Hello!
+## Hi
 
 I like machine learning and software. My best project is this [application](https://github.com/tirangol/Climate-Net/) using convolutional neural networks in Pytorch to predict climate from an elevation map. I have a few older works [here](https://github.com/tirangol/Projects), where I've visualized musical notes in staff notation, replicated some games, and made a Java calendar app.
 
